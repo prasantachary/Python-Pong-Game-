@@ -4,6 +4,7 @@ The objective of the project is to develop a Pong Game game using the turtle mod
 
 # Project Prerequisites
 To develop this game we need a basic knowledge of this game and models like turtle.
+
 turtle – is a Python module that provides a drawing board-like feature, which enables users to create pictures and shapes.
 
 Python Pong Game Output :- 
