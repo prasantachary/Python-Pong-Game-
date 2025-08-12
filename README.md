@@ -6,4 +6,4 @@ To develop this game we need a basic knowledge of this game and models like turt
 turtle – is a Python module that provides a drawing board-like feature, which enables users to create pictures and shapes.
 
 Python Pong Game Output :- 
- ![Image Alt](image_url).
+ ![Image Alt](Screenshot 2025-08-12 192321.png).
